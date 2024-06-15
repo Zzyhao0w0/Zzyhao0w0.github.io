@@ -16,4 +16,3 @@ jobs:
         uses: shalzz/zola-deploy-action@v0.18.0
         env:
           PAGES_BRANCH: gh-pages
-          PAGES_BRANCH: main
