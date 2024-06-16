@@ -1,5 +1,11 @@
 base_url = "https://zzyhao0w0.github.io"
 
+default_language = "zh"
+
+title = "blog"
+
+description = "This is zhaoyihao`s blog
+
 highlight_code = true
 compile_sass = true
 generate_rss = true
