@@ -4,7 +4,7 @@ default_language = "zh"
 
 title = "blog"
 
-description = "This is zhaoyihao`s blog
+description = "This is zhaoyihao`s blog"
 
 highlight_code = true
 compile_sass = true
