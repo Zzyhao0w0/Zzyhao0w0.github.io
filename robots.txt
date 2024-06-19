@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://zzyhao0w0.github.io/sitemap.xml
